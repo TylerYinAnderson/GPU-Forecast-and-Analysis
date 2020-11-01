@@ -1,2 +1,3 @@
 # GPU-Forecast-and-Analysis
+This project will discuss the Graphics Processing Unit (GPU) performance over time as well as predict what the performance of GPUs in the year 2030. For the past 10 years the growth of computer games has resulted in competitive development of Graphics Cards. I want to see if the competitive nature of the graphics card market pushes past Moors law or if Moors law is a limiting factor in the development of new Graphics Cards. To predict the performance of graphics cards in 2030 I will need to use regression models to get a good estimate. In order to focus on performance of GPUs I will need to specifically focus o 3 parameters. Core speed [MHz], Memory Bandwidth [GB/sec] and Memory size [MB or GB].
  
